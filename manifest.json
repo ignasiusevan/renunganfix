@@ -1,7 +1,6 @@
 {
   "name": "Renungan Harian Katolik",
   "short_name": "R H K",
-  "scope": "https://www.renunganhariankatolik.eu.org",
   "start_url": "https://www.renunganhariankatolik.eu.org",
   "display": "standalone",
   "background_color": "#fff",
